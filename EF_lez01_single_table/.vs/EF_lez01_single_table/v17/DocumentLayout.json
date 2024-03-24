@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\EF_lez01_single_table\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F330FA3-DDB0-47CE-9D4F-08403DDE08F5}|EF_lez01_single_table\\EF_lez01_single_table.csproj|c:\\users\\academy\\source\\repos\\ef_lez01_single_table\\ef_lez01_single_table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F330FA3-DDB0-47CE-9D4F-08403DDE08F5}|EF_lez01_single_table\\EF_lez01_single_table.csproj|solutionrelative:ef_lez01_single_table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F330FA3-DDB0-47CE-9D4F-08403DDE08F5}|EF_lez01_single_table\\EF_lez01_single_table.csproj|c:\\users\\academy\\source\\repos\\ef_lez01_single_table\\ef_lez01_single_table\\models\\eflez01singletablecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F330FA3-DDB0-47CE-9D4F-08403DDE08F5}|EF_lez01_single_table\\EF_lez01_single_table.csproj|solutionrelative:ef_lez01_single_table\\models\\eflez01singletablecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F330FA3-DDB0-47CE-9D4F-08403DDE08F5}|EF_lez01_single_table\\EF_lez01_single_table.csproj|c:\\users\\academy\\source\\repos\\ef_lez01_single_table\\ef_lez01_single_table\\models\\contatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F330FA3-DDB0-47CE-9D4F-08403DDE08F5}|EF_lez01_single_table\\EF_lez01_single_table.csproj|solutionrelative:ef_lez01_single_table\\models\\contatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contatto.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\EF_lez01_single_table\\EF_lez01_single_table\\Models\\Contatto.cs",
+              "RelativeDocumentMoniker": "EF_lez01_single_table\\Models\\Contatto.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\EF_lez01_single_table\\EF_lez01_single_table\\Models\\Contatto.cs",
+              "RelativeToolTip": "EF_lez01_single_table\\Models\\Contatto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:01:32.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfLez01SingleTableContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\EF_lez01_single_table\\EF_lez01_single_table\\Models\\EfLez01SingleTableContext.cs",
+              "RelativeDocumentMoniker": "EF_lez01_single_table\\Models\\EfLez01SingleTableContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\EF_lez01_single_table\\EF_lez01_single_table\\Models\\EfLez01SingleTableContext.cs",
+              "RelativeToolTip": "EF_lez01_single_table\\Models\\EfLez01SingleTableContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:01:21.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\EF_lez01_single_table\\EF_lez01_single_table\\Program.cs",
+              "RelativeDocumentMoniker": "EF_lez01_single_table\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\EF_lez01_single_table\\EF_lez01_single_table\\Program.cs",
+              "RelativeToolTip": "EF_lez01_single_table\\Program.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAAIMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:39:15.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

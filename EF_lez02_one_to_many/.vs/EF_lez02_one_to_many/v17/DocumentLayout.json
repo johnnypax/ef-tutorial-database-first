@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\GIT_TUTORIAL\\ef-tutorial-database-first\\EF_lez02_one_to_many\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{616E7B73-E3E6-4C50-8BDB-9C855641011D}|EF_lez02_one_to_many\\EF_lez02_one_to_many.csproj|c:\\users\\academy\\desktop\\git_tutorial\\ef-tutorial-database-first\\ef_lez02_one_to_many\\ef_lez02_one_to_many\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{616E7B73-E3E6-4C50-8BDB-9C855641011D}|EF_lez02_one_to_many\\EF_lez02_one_to_many.csproj|solutionrelative:ef_lez02_one_to_many\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616E7B73-E3E6-4C50-8BDB-9C855641011D}|EF_lez02_one_to_many\\EF_lez02_one_to_many.csproj|c:\\users\\academy\\desktop\\git_tutorial\\ef-tutorial-database-first\\ef_lez02_one_to_many\\ef_lez02_one_to_many\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616E7B73-E3E6-4C50-8BDB-9C855641011D}|EF_lez02_one_to_many\\EF_lez02_one_to_many.csproj|solutionrelative:ef_lez02_one_to_many\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616E7B73-E3E6-4C50-8BDB-9C855641011D}|EF_lez02_one_to_many\\EF_lez02_one_to_many.csproj|c:\\users\\academy\\desktop\\git_tutorial\\ef-tutorial-database-first\\ef_lez02_one_to_many\\ef_lez02_one_to_many\\models\\cartum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616E7B73-E3E6-4C50-8BDB-9C855641011D}|EF_lez02_one_to_many\\EF_lez02_one_to_many.csproj|solutionrelative:ef_lez02_one_to_many\\models\\cartum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616E7B73-E3E6-4C50-8BDB-9C855641011D}|EF_lez02_one_to_many\\EF_lez02_one_to_many.csproj|c:\\users\\academy\\desktop\\git_tutorial\\ef-tutorial-database-first\\ef_lez02_one_to_many\\ef_lez02_one_to_many\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616E7B73-E3E6-4C50-8BDB-9C855641011D}|EF_lez02_one_to_many\\EF_lez02_one_to_many.csproj|solutionrelative:ef_lez02_one_to_many\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616E7B73-E3E6-4C50-8BDB-9C855641011D}|EF_lez02_one_to_many\\EF_lez02_one_to_many.csproj|c:\\users\\academy\\desktop\\git_tutorial\\ef-tutorial-database-first\\ef_lez02_one_to_many\\ef_lez02_one_to_many\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{616E7B73-E3E6-4C50-8BDB-9C855641011D}|EF_lez02_one_to_many\\EF_lez02_one_to_many.csproj|solutionrelative:ef_lez02_one_to_many\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "database.sql ",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\GIT_TUTORIAL\\ef-tutorial-database-first\\EF_lez02_one_to_many\\EF_lez02_one_to_many\\database.sql",
+              "RelativeDocumentMoniker": "EF_lez02_one_to_many\\database.sql",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\GIT_TUTORIAL\\ef-tutorial-database-first\\EF_lez02_one_to_many\\EF_lez02_one_to_many\\database.sql",
+              "RelativeToolTip": "EF_lez02_one_to_many\\database.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-24T14:15:55.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cartum.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\GIT_TUTORIAL\\ef-tutorial-database-first\\EF_lez02_one_to_many\\EF_lez02_one_to_many\\Models\\Cartum.cs",
+              "RelativeDocumentMoniker": "EF_lez02_one_to_many\\Models\\Cartum.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\GIT_TUTORIAL\\ef-tutorial-database-first\\EF_lez02_one_to_many\\EF_lez02_one_to_many\\Models\\Cartum.cs",
+              "RelativeToolTip": "EF_lez02_one_to_many\\Models\\Cartum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T10:56:21.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\GIT_TUTORIAL\\ef-tutorial-database-first\\EF_lez02_one_to_many\\EF_lez02_one_to_many\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "EF_lez02_one_to_many\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\GIT_TUTORIAL\\ef-tutorial-database-first\\EF_lez02_one_to_many\\EF_lez02_one_to_many\\Models\\Persona.cs",
+              "RelativeToolTip": "EF_lez02_one_to_many\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T10:55:04.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\GIT_TUTORIAL\\ef-tutorial-database-first\\EF_lez02_one_to_many\\EF_lez02_one_to_many\\Program.cs",
+              "RelativeDocumentMoniker": "EF_lez02_one_to_many\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\GIT_TUTORIAL\\ef-tutorial-database-first\\EF_lez02_one_to_many\\EF_lez02_one_to_many\\Program.cs",
+              "RelativeToolTip": "EF_lez02_one_to_many\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T10:51:31.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
